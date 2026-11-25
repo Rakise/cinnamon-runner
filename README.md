@@ -41,7 +41,7 @@ For instructions on preprocessing your game files for your console, please visit
 
 ## Building from Source
 
-Cinnamon uses **CMake** and the **devkitPro** toolchains.
+Cinnamon uses **CMake** for build configuration and **devkitPro** for the compilers and libraries needed to build the project.
 
 ### Nintendo 3DS
 
